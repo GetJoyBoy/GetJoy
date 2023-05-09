@@ -46,7 +46,7 @@
 .den {
     background-image: url(images/gia.jpg);
     width: 100%;
-    height: 250px;
+    height: 300px;
     display: flex;
     justify-content: flex-end;
     align-items: center; 
@@ -55,4 +55,13 @@
     padding-top: 0;
     padding-right:105px;
     color:rgb(73, 69, 77)
+}
+
+.body {
+    margin: 0px 0px 15px;
+    padding-top: 20px;
+}
+
+.body > .list {
+    grid: 0%;
 }
