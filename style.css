@@ -35,13 +35,24 @@
 .go > li > a {
     color: rgb(127, 182, 203);
     text-decoration: none;
-
 }
 
 .logo {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    fle
 }
 
+.den {
+    background-image: url(images/gia.jpg);
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+    font-size: xx-large;
+    margin-top: auto;
+    padding-top: 0;
+    padding-right:105px;
+    color:rgb(73, 69, 77)
+}
